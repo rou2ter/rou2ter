@@ -14,7 +14,7 @@
 
 <pre>
  ~> <strong>ls links</strong>
- Twitter:      <a rel=me href="https://x.com/rou2ter1217">@rou2ter1217</a> (Mastodon)
+ Twitter:      <a rel=me href="https://x.com/rou2ter1217">@rou2ter1217</a> ([ R ])
  Blog:           <a href="https://rou2ter-1217.github.io/">Rou2terH4ck[R]</a>
  XXX: <a href="https://github.io/rou2ter">https://github.io/rou2ter</a>
 
