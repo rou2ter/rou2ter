@@ -16,7 +16,7 @@
  XXX: <a href="https://github.io/rou2ter">https://github.io/rou2ter</a>
 
  ~> <strong>rou2terh4ck-lab404</strong>
- Login: rou2terh4ck                             Name: xxx
+ Login: xxx                             Name: xxx
  Directory: /home/xxx                   Shell: /usr/bin/python
  Project:
    - <a href="https://github.com/xxx">xxx</a>
