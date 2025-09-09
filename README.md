@@ -16,7 +16,7 @@
  ~> <strong>ls links</strong>
  Twitter:      <a rel=me href="https://x.com/rou2ter1217">@rou2ter1217</a> (Mastodon)
  Blog:           <a href="https://rou2ter-1217.github.io/">Rou2terH4ck[R]</a>
- XXX: <a href="https://rou2ter-1217.github.io/">gemini://gmi.hedy.dev</a>
+ XXX: <a href="https://github.io/rou2ter">https://github.io/rou2ter</a>
 
  ~> <strong>finger hedy</strong>
  Login: hedy                             Name: hedy
@@ -26,7 +26,7 @@
    - <a href="https://github.com/xxx">an online playground</a> for the Cognate programming language
 </pre>
 
-[**octo ring**](https://octo-ring.com/)
-[[prev](https://rou2ter-1217.github.io/)]  [[random](https://rou2ter-1217.github.io/)]  [[next](https://rou2ter-1217.github.io/)]
+[**rou2terh4ck**](https://rou2ter-1217.github.io/)
+[[prev](https://github.io/rou2ter)]  [[random](https://rou2ter-1217.github.io/)]  [[next](https://x.com/rou2ter1217)]
 
 <!-- is my profile readme not mobile-friendly? I'd love to improve. let me know your suggestions -->
