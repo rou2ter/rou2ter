@@ -1,0 +1,32 @@
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
+<pre>
+ ~> <strong>ls links</strong>
+ Twitter:      <a rel=me href="https://x.com/rou2ter1217">@rou2ter1217</a> (Mastodon)
+ Blog:           <a href="https://rou2ter-1217.github.io/">Rou2terH4ck[R]</a>
+ XXX: <a href="https://rou2ter-1217.github.io/">gemini://gmi.hedy.dev</a>
+
+ ~> <strong>finger hedy</strong>
+ Login: hedy                             Name: hedy
+ Directory: /home/hedy                   Shell: /usr/bin/fish
+ Project:
+   - <a href="https://github.com/xxx">xxx</a>
+   - <a href="https://github.com/xxx">an online playground</a> for the Cognate programming language
+</pre>
+
+[**octo ring**](https://octo-ring.com/)
+[[prev](https://rou2ter-1217.github.io/)]  [[random](https://rou2ter-1217.github.io/)]  [[next](https://rou2ter-1217.github.io/)]
+
+<!-- is my profile readme not mobile-friendly? I'd love to improve. let me know your suggestions -->
