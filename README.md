@@ -15,9 +15,9 @@
  Blog:           <a href="https://rou2ter-1217.github.io/">Rou2terH4ck[R]</a>
  XXX: <a href="https://github.io/rou2ter">https://github.io/rou2ter</a>
 
- ~> <strong>finger hedy</strong>
- Login: hedy                             Name: hedy
- Directory: /home/hedy                   Shell: /usr/bin/fish
+ ~> <strong>rou2terh4ck-lab404</strong>
+ Login: rou2terh4ck                             Name: xxx
+ Directory: /home/xxx                   Shell: /usr/bin/python
  Project:
    - <a href="https://github.com/xxx">xxx</a>
    - <a href="https://github.com/xxx">an online playground</a> for the Cognate programming language
